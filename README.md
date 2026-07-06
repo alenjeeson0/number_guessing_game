@@ -4,7 +4,7 @@ An interactive number guessing game built with vanilla HTML, CSS, and JavaScript
 
 ## 🔗 Live Demo
 
-> https://number-guessing-game-mini-project.netlify.app
+> https://alenjeeson0.github.io/number_guessing_game/
 
 ## 📸 Preview
 
